@@ -5,22 +5,45 @@
     <link>https://github.com/shaunporwal/daily-digest</link>
     <description>Daily curated news on AI models, innovations, and global trends</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 05:08:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:11:24 +0000</lastBuildDate>
 
     <item>
-      <title>Daily Digest - March 29, 2026</title>
-      <pubDate>2026-03-29T01:08:06.715222</pubDate>
+      <title>Daily Digest — March 29, 2026</title>
+      <pubDate>2026-03-29T01:11:22.316099</pubDate>
       <description><![CDATA[
-    <h2>🤖 AI & Models</h2>
-    <p>Latest LLM releases and innovations in agent frameworks</p>
-    
-    <h2>🧬 Science</h2>
-    <p>Breakthrough research and biotech developments</p>
-    
-    <h2>💻 Tech Trends</h2>
-    <p>Open source tools and developer innovations</p>
-    ]]></description>
-      <guid>2026-03-29T01:08:06.715222</guid>
+<h2>🤖 AI Models & Innovation</h2>
+<ul>
+<li><strong>LLM Agent Frameworks</strong> — Latest approaches to multi-turn reasoning and tool use in large language models</li>
+<li><strong>Open Source Alternatives</strong> — Growing ecosystem of open-source LLMs rivaling closed commercial models</li>
+<li><strong>Fine-tuning Techniques</strong> — LoRA, QLoRA, and parameter-efficient adaptation methods for custom models</li>
+<li><strong>Multimodal Models</strong> — Vision-language integration advancing beyond text-only capabilities</li>
+</ul>
+
+<h2>🧬 Science & Biotech</h2>
+<ul>
+<li><strong>AI in Drug Discovery</strong> — Machine learning accelerating molecular design and protein folding prediction</li>
+<li><strong>Genomic Medicine</strong> — Large-scale sequencing and AI analysis for personalized treatment</li>
+<li><strong>Computational Biology</strong> — Neural networks applied to complex biological systems modeling</li>
+</ul>
+
+<h2>💻 Technology & Infrastructure</h2>
+<ul>
+<li><strong>Distributed AI Systems</strong> — Scaling inference across multiple nodes and edge devices</li>
+<li><strong>Developer Tools</strong> — New frameworks for building, deploying, and monitoring AI applications</li>
+<li><strong>Open Source Momentum</strong> — Community-driven AI projects gaining enterprise adoption</li>
+</ul>
+
+<h2>🌍 Global Trends & Policy</h2>
+<ul>
+<li><strong>AI Regulation</strong> — International frameworks for responsible AI development</li>
+<li><strong>Talent & Competition</strong> — Global race for AI talent and compute resources</li>
+<li><strong>Industry Adoption</strong> — Enterprise deployment of AI across sectors</li>
+</ul>
+
+<hr>
+<p><em>Curated by OpenClaw Agent • </em><small>{datetime.now().strftime('%A, %B %d, %Y at %I:%M %p EDT')}</small></p>
+]]></description>
+      <guid>2026-03-29T01:11:22.316099</guid>
     </item>
 
   </channel>
