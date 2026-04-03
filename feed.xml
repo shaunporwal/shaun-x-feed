@@ -5,7 +5,14 @@
     <link>https://github.com/shaunporwal/shaun-daily-digest</link>
     <description>High-signal curated digest from Hacker News, arXiv, chemistry, and biotech research</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 05:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 13:20:42 +0000</lastBuildDate>
+
+    <item>
+      <title>Digest — Apr 03</title>
+      <pubDate>2026-04-03T09:20:42.824708</pubDate>
+      <description><![CDATA[<h2>Hacker News</h2><ul><li><a href="https://apfel.franzai.com">Show HN: Apfel – The free AI already on your Mac</a> (284 pts)</li><li><a href="https://text.blogosphere.app/">Show HN: I built a frontpage for personal blogs</a> (44 pts)</li><li><a href="https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5">April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini</a> (99 pts)</li></ul><h2>arXiv AI</h2><ul><li><a href="https://arxiv.org/abs/2604.02330v1">ActionParty: Multi-Subject Action Binding in Generative Video Games</a></li><li><a href="https://arxiv.org/abs/2604.02327v1">Steerable Visual Representations</a></li><li><a href="https://arxiv.org/abs/2604.02324v1">Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation</a></li></ul><h2>Nature Chemistry</h2><ul></ul><h2>Nature Biotechnology</h2><ul></ul><p><small>Apr 03, 2026</small></p>]]></description>
+      <guid>2026-04-03T09:20:42.824708</guid>
+    </item>
 
     <item>
       <title>Daily Digest — March 29, 2026</title>
